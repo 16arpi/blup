@@ -84,7 +84,3 @@ def main():
     else:
         serve(args, blup)
 
-
-
-if __name__ == "__main__":
-     main()
