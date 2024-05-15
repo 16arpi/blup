@@ -2,3 +2,4 @@
 __pycache__
 blup.egg-info
 build
+dist
